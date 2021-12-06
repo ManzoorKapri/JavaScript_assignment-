@@ -1,83 +1,83 @@
-// // #1st Chapter
-// // task1
-// alert('Welcome to my assignment 4 File');
-// // task2
-// alert('Error! Please enter a valid password.');
-// // task3
-// alert('Welcome to JS land...\nHappy Coding!');
-// // task4
-// alert('Welcome to JS land..');
-// alert('Happy Coding!');
-// // task5
-// alert('Hello.. i can run my JS through web browsers console');
-// console.log(alert)
-// // task6
+// #1st Chapter
+// task1
+alert('Welcome to my assignment 4 File');
+// task2
+alert('Error! Please enter a valid password.');
+// task3
+alert('Welcome to JS land...\nHappy Coding!');
+// task4
+alert('Welcome to JS land..');
+alert('Happy Coding!');
+// task5
+alert('Hello.. i can run my JS through web browsers console');
+console.log(alert)
+// task6
 
-// // alerady don in my head and body tags 
-
-
-
-// // #2nd Chapter 
+// alerady don in my head and body tags 
 
 
 
+// #2nd Chapter 
 
 
-// // task1 
-// var username;
-
-// // task2 
-// var myName = "Manzoor Ali"
-
-// // task3 
-
-// var message = "Hello World..!"
-
-// alert(message);
-
-// // task4 
-
-// var name = "John Doe"
-// var age = "15 years old"
-// var ed  = "Certified mobile app development"
-
-// alert(name);
-// alert(age);
-// alert(ed);
 
 
-// // task5 
 
-// var k = "Pizza"
+// task1 
+var username;
 
-// for (i = 0; i > k; i--){
-//     alert('k')
-// }
+// task2 
+var myName = "Manzoor Ali"
+
+// task3 
+
+var message = "Hello World..!"
+
+alert(message);
+
+// task4 
+
+var name = "John Doe"
+var age = "15 years old"
+var ed  = "Certified mobile app development"
+
+alert(name);
+alert(age);
+alert(ed);
 
 
-// // task6 
+// task5 
 
-// var l = "this is my email "
-// var email = "manzoorkapri@gmail.com"
+var k = "Pizza"
 
-// alert(l + email);
+for (i = 0; i > k; i--){
+    alert('k')
+}
 
 
-// // task7 
+// task6 
 
-// var book = " A Smart Way to Learn JavaScript"
+var l = "this is my email "
+var email = "manzoorkapri@gmail.com"
 
-// alert("i am trying to learn from the book" + book);
+alert(l + email);
 
-// // task8 
 
-// document.write('Yah! I can write HTML content through JavaScript')
+// task7 
 
-// // task9 
+var book = " A Smart Way to Learn JavaScript"
 
-// alert('▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬');
+alert("i am trying to learn from the book" + book);
 
-// document.write('▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬');
+// task8 
+
+document.write('Yah! I can write HTML content through JavaScript')
+
+// task9 
+
+alert('▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬');
+
+document.write('▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬');
 
 
 // // 3rd Chapter 
